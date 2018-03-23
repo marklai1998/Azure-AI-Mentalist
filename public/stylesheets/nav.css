@@ -1,0 +1,150 @@
+/* Header */
+
+.content.show-menu {
+    left: 150px;
+}
+
+.main_title.show-menu {
+    margin-left: 170px !important;
+}
+
+.logo {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    z-index: 5;
+    cursor: pointer;
+    width: 85px;
+}
+
+.header {
+    background-color: #45ACE8;
+    position: relative;
+    z-index: 5;
+    width: 100%;
+    color: #fff;
+}
+
+.header i{
+    color: #FFF;
+}
+
+.header ul {
+    margin: auto 0;
+    display: inline-block;
+    padding: 12px 0 10px 130px;
+}
+
+.header li {
+    position: relative;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+li.right {
+    float: right;
+}
+
+.analyzer_menu {
+    float: right;
+}
+
+.title {
+    max-height: 113px;
+    position: relative;
+    background-color: #fff;
+    width: 100%;
+    z-index: 3;
+    filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.05));
+}
+
+.title h3.main_title {
+    padding: 15px 0;
+    display: inline-block;
+    margin-left: 130px;
+    -webkit-transition-property: margin-left;
+    -webkit-transition-duration: 0.3s;
+    transition-property: margin-left;
+    transition-duration: 0.3s;
+}
+
+.title .analyzer_menu {
+    background-color: #f2f2f2;
+    border-left: 5px solid #0072B2;
+    position: absolute;
+    top: 0;
+    right: 0;
+    z-index: -1;
+}
+
+.title .analyzer_menu h3 {
+    padding: 15px;
+    display: inline-block;
+    -webkit-transition-property: margin-left;
+    -webkit-transition-duration: 0.3s;
+    transition-property: margin-left;
+    transition-duration: 0.3s;
+}
+
+.icon-bg {
+    overflow-y: hidden;
+    padding: 0 10px 10px 10px;
+    margin: 0 -10px;
+    position: absolute;
+    top: 60px;
+    left: 32px;
+}
+
+.icon-bg div {
+    z-index: 5;
+    width: 0;
+    height: 0;
+    border-left: 30px solid transparent;
+    border-right: 30px solid transparent;
+    border-top: 15px solid #fff;
+}
+
+.menu {
+    position: absolute;
+    padding-top: 35px;
+    width: 200px;
+    min-height: calc(100vh - 107px);
+    background-color: #FFF;
+}
+
+.menu li.active {
+    background-color: #f2f2f2;
+    border-left: 3px solid #0072B2;
+}
+
+.menu li.active a {
+    color: #3c3c3c;
+}
+
+.menu li a {
+    color: rgba(0, 0, 0, 0.15);
+    padding: 10px 20px;
+    display: block;
+    text-decoration: none;
+}
+
+.menu li:not(.active):hover {
+    background-color: #f2f2f2;
+}
+
+.menu li:not(.active):hover a {
+
+    color: #3c3c3c;
+}
+
+.message {
+    color: #fff;
+    background-color: #0072B2;
+    text-align: center;
+    overflow: hidden;
+    line-height: 0px;
+}
+
+.message.visible {
+    line-height: 35px;
+}

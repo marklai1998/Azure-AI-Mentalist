@@ -1,0 +1,42 @@
+.tab-content {
+    background-color: unset;
+    padding: 10px 0;
+    min-width: 100%;
+    border-radius: 0;
+    box-shadow: 0 0 0;
+}
+
+.tab-link.active {
+    border-radius: 3px;
+}
+
+.info{
+    padding: 10px;
+    border-radius: 3px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    background-color: #FFF;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.number{
+    color: #FFF;
+    padding: 3px 8px;
+    margin-left: 10px;
+    border-radius: 20px;
+    background-color: #005c92;
+}
+
+h2{
+    margin: 20px 0;
+}
+
+iframe{
+    width: 100%;
+    height: 500px;
+    background-color: #FFF;
+    border-radius: 3px;
+    border: 0;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+    margin-bottom: 10px;
+}

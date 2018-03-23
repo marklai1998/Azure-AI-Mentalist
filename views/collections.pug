@@ -1,0 +1,35 @@
+extends nav
+block content
+    div.content-outer
+        div.content
+            if collections.length > 0
+                div.col-12
+                    table
+                        thead
+                            tr
+                                th
+                                th Collection id
+                                th size
+                                th Date created
+                        tbody
+                            each collection in collections
+                                tr
+                                    td.min-width
+                                        a(href="/collections/delete/" + collection._id)
+                                            div
+                                                i.fa.fa-times
+                                    td.max-width
+                                        a.db-click.show-detail(href="/collections/" + collection._id)
+                                            div.td_clickable
+                                                span= collection._id
+                                    td.show-detail#size
+                                        a.db-click.show-detail(href="/collections/" + collection._id)
+                                            div.td_clickable
+                                                span= collection.size
+                                    td.show-detail#create_at
+                                        a.db-click.show-detail(href="/collections/" + collection._id)
+                                            div.td_clickable
+                                                span= collection.created_at.toDateString()
+            else
+                div.col-12
+                    h3 No Collection currently

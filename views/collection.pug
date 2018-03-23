@@ -1,0 +1,89 @@
+extends nav
+block content
+    div.content-outer
+        div.content
+            div.info
+                span Collection size
+                span.number= size
+            ul.nav.nav-pills#pills-tab(role="tablist")
+                li.nav-item
+                    a.tab-link.active#pills-overview-tab(data-toggle="pill" href="#pills-overview" role="tab" aria-controls="pills-overview" aria-expanded="true") Overview
+                li.nav-item
+                    a.tab-link#pills-emotion-distribution-tab(data-toggle="pill" href="#pills-emotion-distribution" role="tab" aria-controls="pills-emotion-distribution" aria-expanded="true") Emotion Distribution
+                li.nav-item
+                    a.tab-link#pills-emotion-trend-tab(data-toggle="pill" href="#pills-emotion-trend" role="tab" aria-controls="pills-emotion-trend" aria-expanded="true") Emotion Trend
+            div.tab-content#pills-tabContent
+                div.tab-pane.fade.show.active#pills-overview(role="tabpanel" aria-labelledby="pills-overview-tab")
+                    div.row
+                        div.col-12
+                            iframe(src="/collections/" + id + "/overall_line_chart.html")
+                        div.col-12
+                            iframe(src="/collections/" + id + "/overall_gender_sentiment_comparision.html")
+                        div.col-12
+                            iframe(src="/collections/" + id + "/overall_line_chart_person_1.html")
+                        div.col-12
+                            iframe(src="/collections/" + id + "/emotion_distribution_person_1.html")
+                div.tab-pane.fade#pills-emotion-distribution(role="tabpanel" aria-labelledby="pills-emotion-distribution-tab")
+                    div.row
+                        div.col-12
+                            iframe(src="/collections/" + id + "/overall_happy_emotion_pie_chart.html")
+                        div.col-6
+                            iframe(src="/collections/" + id + "/overall_angry_emotion_pie_chart.html")
+                        div.col-6
+                            iframe(src="/collections/" + id + "/overall_calm_emotion_pie_chart.html")
+                        div.col-6
+                            iframe(src="/collections/" + id + "/overall_confused_emotion_pie_chart.html")
+                        div.col-6
+                            iframe(src="/collections/" + id + "/overall_disgusted_emotion_pie_chart.html")
+                        div.col-6
+                            iframe(src="/collections/" + id + "/overall_sad_emotion_pie_chart.html")
+                        div.col-6
+                            iframe(src="/collections/" + id + "/overall_surprise_emotion_pie_chart.html")
+                div.tab-pane.fade#pills-emotion-trend(role="tabpanel" aria-labelledby="pills-emotion-trend-tab")
+                    ul.nav.nav-pills#pills2-tab(role="tablist")
+                        li.nav-item
+                            a.tab-link.active#pills2-overview-tab(data-toggle="pill" href="#pills2-overview" role="tab2" aria-controls="pills2-overview" aria-expanded="true") Overview
+                        li.nav-item
+                            a.tab-link#pills2-per-person-tab(data-toggle="pill" href="#pills2-per-person" role="tab2" aria-controls="pills2-per-person" aria-expanded="true") Per Person
+                    div.tab-content#pills2-tabContent
+                        div.tab-pane.fade.show.active#pills2-overview(role="tabpanel2" aria-labelledby="pills2-overview")
+                            div.row
+                                div.col-12
+                                    iframe(src="/collections/" + id + "/surprised_line_chart.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/angry_line_chart.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/calm_line_chart.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/confused_line_chart.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/disgusted_line_chart.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/happy_line_chart.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/sad_line_chart.html")
+                        div.tab-pane.fade#pills2-per-person(role="tabpanel2" aria-labelledby="pills2-per-person")
+                            div.row
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/overall_line_chart_person_2.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/overall_line_chart_person_3.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/emotion_distribution_person_2.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/emotion_distribution_person_3.html")
+                            div.row
+                                div.col-12
+                                    iframe(src="/collections/" + id + "/compared_overall_surprised_emotion.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/compared_overall_angry_emotion.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/compared_overall_calm_emotion.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/compared_overall_confused_emotion.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/compared_overall_disgusted_emotion.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/compared_overall_happy_emotion.html")
+                                div.col-6
+                                    iframe(src="/collections/" + id + "/compared_overall_sad_emotion.html")

@@ -1,0 +1,65 @@
+doctype html
+html
+    head
+        link(rel='stylesheet', href='/stylesheets/style.css')
+        link(rel='stylesheet', href='/stylesheets/bootstrap.css')
+        link(rel='stylesheet', href='/stylesheets/bootstrap-grid.css')
+        link(rel='stylesheet', href='/stylesheets/font-awesome-4.7.0/css/font-awesome.css')
+        link(rel='stylesheet', href='/stylesheets/login.css')
+        link(rel='stylesheet', href='/stylesheets/nav.css')
+        if title === "Videos"
+            link(rel='stylesheet', href='/stylesheets/videos.css')
+        if title === "Analyzer"
+            script(src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.0/Chart.js")
+            link(rel='stylesheet', href='/stylesheets/analyzer.css')
+        if title === "About"
+            link(rel='stylesheet', href='/stylesheets/about.css')
+        if title === "Collection"
+            link(rel='stylesheet', href='/stylesheets/collection.css')
+        link(rel='stylesheet', href='https://fonts.googleapis.com/css?family=Rajdhani')
+        script(src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous")
+        script(src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.13.0/umd/popper.min.js" crossorigin="anonymous")
+        script(src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous")
+        script(src="/javascripts/jquery-ui-1.12.1.custom/jquery-ui.min.js")
+        script(src="/javascripts/jquery.resize.js")
+        script.
+            $(document).ready(function () {
+                if ("#{show_message}") {
+                    const message = $(".message");
+                    message.addClass("visible");
+                    setTimeout(
+                        function () {
+                            message.removeClass("visible");
+                        }, 2000);
+                }
+                $(".menu").find("a").click(function () {
+                    var href = $(this).attr("href");
+                    hide_menu();
+                    setTimeout(function () {
+                        window.location = href
+                    }, 300);
+                    return false;
+                });
+                $('.db-click').click(function () {
+                    hide_menu();
+                    return false;
+                }).dblclick(function () {
+                    window.location = this.href;
+                    return false;
+                });
+                $(".logo").click(function () {
+                    $(".content").toggleClass("show-menu");
+                    $(".main_title").toggleClass("show-menu");
+                });
+                $(".content").click(function () {
+                    hide_menu();
+                });
+            });
+            function hide_menu() {
+                $(".content").removeClass("show-menu");
+                $(".main_title").removeClass("show-menu");
+            }
+body#body
+    div.message #{message}
+    block nav
+    block content

@@ -1,0 +1,35 @@
+extends layout
+block nav
+    div.header#header
+        img.logo(src="/images/logo.svg")
+        ul.d-block
+            li.clearfix
+            li.right
+                a(href="/logout")
+                    i.fa.fa-sign-out
+            li.right
+                a #{username} &nbsp|
+    div.title
+        h3.main_title #{title}
+        if title === "Analyzer"
+            include analyzer_nav
+        div.icon-bg
+            div
+    div.menu
+        ul
+            li(class= title === "Dashboard" ? "active" : "")
+                a(href="/") Dashboard
+            li(class= title === "Videos" ? "active" : "")
+                a(href="/videos") Videos
+            if title === "Analyzer"
+                li(class= title === "Analyzer" ? "active" : "")
+                    a(href="/videos") Analyzer
+            li(class= title === "Collections"||title === "Collection" ? "active" : "")
+                a(href="/collections") Collections
+            li(class= title === "Users" ? "active" : "")
+                a(href="/users") Users
+            li(class= title === "About" ? "active" : "")
+                a(href="/about") About
+
+
+

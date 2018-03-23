@@ -1,0 +1,1067 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bf6250ff-f33a-43e6-afef-928785a2ef16" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="hwfiv front" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Pug File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main_title</find>
+      <find>messagevisible</find>
+      <find>hide-overflow</find>
+      <find>show-menu-title</find>
+      <find>subm</find>
+      <find>video-detail</find>
+      <find>appen</find>
+      <find>.inn</find>
+      <find>seekbar-bg</find>
+      <find>goto</find>
+      <find>append_video_inner</find>
+      <find>tab</find>
+      <find>.map</find>
+      <find>save</find>
+      <find>saveWidget</find>
+      <find>overall_personal_ggplot_graph</find>
+      <find>self</find>
+      <find>selfcontained = TRUE</find>
+      <find>.html</find>
+      <find>f_path</find>
+      <find>rb</find>
+      <find>rbi</find>
+      <find>fpath</find>
+      <find>id</find>
+      <find>gender</find>
+      <find>conte</find>
+      <find>2196F3</find>
+      <find>box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);</find>
+      <find>SURPRISED</find>
+      <find>s3</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>propagate_info()</replace>
+      <replace>create_bb</replace>
+      <replace>overlay-bg</replace>
+      <replace>'</replace>
+      <replace>emotion_per_framee</replace>
+      <replace>215px</replace>
+      <replace>.emotion-color-reference</replace>
+      <replace>,1</replace>
+      <replace>, 1</replace>
+      <replace>#video_box</replace>
+      <replace>video_box</replace>
+      <replace>#main-video-bg</replace>
+      <replace>#append-video-bg</replace>
+      <replace>#append_video_bg</replace>
+      <replace>calm</replace>
+      <replace>main-video-overlay</replace>
+      <replace>-</replace>
+      <replace>#main_video_bg</replace>
+      <replace>#main_video_overlay</replace>
+      <replace>CALM</replace>
+      <replace>#main_video</replace>
+      <replace>#main_video_controls</replace>
+      <replace>const</replace>
+      <replace>clean_boundary_box</replace>
+      <replace>video[0]</replace>
+      <replace>.boundary_box</replace>
+      <replace>video_height</replace>
+      <replace>selfcontained = FALSE</replace>
+      <replace>box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);</replace>
+      <replace>surprise</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/function/upload_video.js" />
+        <option value="$PROJECT_DIR$/routes/users.js" />
+        <option value="$PROJECT_DIR$/function/upload_to_S3.js" />
+        <option value="$PROJECT_DIR$/function/upload_to_local.js" />
+        <option value="$PROJECT_DIR$/routes/watcher.js" />
+        <option value="$PROJECT_DIR$/routes/index.js" />
+        <option value="$PROJECT_DIR$/views/error.pug" />
+        <option value="$PROJECT_DIR$/public/javascripts/videoplayback.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/video.css" />
+        <option value="$PROJECT_DIR$/routes/login.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/video_playback.css" />
+        <option value="$PROJECT_DIR$/public/javascripts/video_playback.js" />
+        <option value="$PROJECT_DIR$/bin/www" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/views/analyzer_nav.pug" />
+        <option value="$PROJECT_DIR$/public/javascripts/append_video.js" />
+        <option value="$PROJECT_DIR$/db/videos.js" />
+        <option value="$PROJECT_DIR$/function/append_video.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/about.css" />
+        <option value="$PROJECT_DIR$/public/javascripts/jquery-ui-1.12.1.custom/analyzer_boundary_box.js" />
+        <option value="$PROJECT_DIR$/public/stylesheets/bootstrap.css" />
+        <option value="$PROJECT_DIR$/public/javascripts/analyzer_boundary_box.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/analyzer_graph.js" />
+        <option value="$PROJECT_DIR$/app.js" />
+        <option value="$PROJECT_DIR$/views/users.pug" />
+        <option value="$PROJECT_DIR$/views/about.pug" />
+        <option value="$PROJECT_DIR$/views/login.pug" />
+        <option value="$PROJECT_DIR$/public/javascripts/analyzer.js" />
+        <option value="$PROJECT_DIR$/views/collections.pug" />
+        <option value="$PROJECT_DIR$/db/collections.js" />
+        <option value="$PROJECT_DIR$/routes/collections.js" />
+        <option value="$PROJECT_DIR$/function/create_collection.js" />
+        <option value="$PROJECT_DIR$/views/videos.pug" />
+        <option value="$PROJECT_DIR$/routes/videos.js" />
+        <option value="$PROJECT_DIR$/public/javascripts/analyzer_overlays_drawing.js" />
+        <option value="$PROJECT_DIR$/function/s3_file.js" />
+        <option value="$PROJECT_DIR$/views/layout.pug" />
+        <option value="$PROJECT_DIR$/views/index.pug" />
+        <option value="$PROJECT_DIR$/views/collection.pug" />
+        <option value="$PROJECT_DIR$/views/nav.pug" />
+        <option value="$PROJECT_DIR$/public/stylesheets/nav.css" />
+        <option value="$PROJECT_DIR$/public/stylesheets/style.css" />
+        <option value="$PROJECT_DIR$/public/stylesheets/analyzer.css" />
+        <option value="$PROJECT_DIR$/public/stylesheets/collection.css" />
+        <option value="$PROJECT_DIR$/public/stylesheets/login.css" />
+        <option value="$PROJECT_DIR$/public/stylesheets/videos.css" />
+        <option value="$PROJECT_DIR$/views/analyzer.pug" />
+        <option value="$PROJECT_DIR$/public/javascripts/analyzer_core.js" />
+        <option value="$PROJECT_DIR$/functions.R" />
+        <option value="$PROJECT_DIR$/routes/analyzer.js" />
+        <option value="$PROJECT_DIR$/function/local_file.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path />
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="257" />
+    <option name="y" value="316" />
+    <option name="width" value="1008" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>CollectionsScala</id>
+          </State>
+          <State>
+            <id>ComparingCollectionsScala</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>IndicesCollectionsScala</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java 7Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Performance issuesJava</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>Simplifications: filter and existsCollectionsScala</id>
+          </State>
+          <State>
+            <id>Simplifications: otherCollectionsScala</id>
+          </State>
+          <State>
+            <id>SizeCollectionsScala</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring DataSpring</id>
+          </State>
+          <State>
+            <id>Style issuesKotlin</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Imagine Cup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Imagine Cup" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Imagine Cup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Imagine Cup" type="462c0819:PsiDirectoryNode" />
+              <item name="function" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Imagine Cup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Imagine Cup" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Imagine Cup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Imagine Cup" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Imagine Cup" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Imagine Cup" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.7.0" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Mark Lai/Desktop/fyp frontend/views/analyzer_nav.pug" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\How Who Feel In Video\" />
+      <recent name="D:\How Who Feel In Video" />
+      <recent name="D:\How Who Feel In Video\function" />
+      <recent name="C:\Users\Mark Lai\Desktop\fyp frontend\public\javascripts" />
+      <recent name="C:\Users\markl\Desktop\hwfiv front\db" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\How Who Feel In Video\function" />
+      <recent name="D:\How Who Feel In Video" />
+      <recent name="D:\How Who Feel In Video\function" />
+      <recent name="D:\How Who Feel In Video\views" />
+      <recent name="D:\How Who Feel In Video\db" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="untitled" />
+      <envs />
+    </configuration>
+    <configuration name="create collection.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="create collection.js" working-dir="$PROJECT_DIR$" />
+    <configuration name="videos.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-js-file="videos.js" working-dir="$PROJECT_DIR$/routes" />
+    <configuration name="functions" type="RRunConfigurationType" factoryName="R" temporary="true">
+      <option name="SCRIPT_PATH" value="$PROJECT_DIR$/functions.R" />
+      <option name="SCRIPT_ARGS" value="" />
+      <option name="WORKING_DIRECTORY_PATH" value="D:\How Who Feel In Video" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <envs />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.create collection.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.videos.js" />
+      <item index="3" class="java.lang.String" itemvalue="R.functions" />
+    </list>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bf6250ff-f33a-43e6-afef-928785a2ef16" name="Default" comment="" />
+      <created>1503551961165</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503551961165</updated>
+      <workItem from="1503551992728" duration="10399000" />
+      <workItem from="1503562643374" duration="233000" />
+      <workItem from="1503562909212" duration="4690000" />
+      <workItem from="1503582633383" duration="3828000" />
+      <workItem from="1503591165645" duration="3090000" />
+      <workItem from="1503655309590" duration="20492000" />
+      <workItem from="1503762068019" duration="3152000" />
+      <workItem from="1503820444705" duration="36149000" />
+      <workItem from="1503884573705" duration="7809000" />
+      <workItem from="1503902555165" duration="50000" />
+      <workItem from="1503907088332" duration="5089000" />
+      <workItem from="1503921967251" duration="1260000" />
+      <workItem from="1503923551542" duration="6180000" />
+      <workItem from="1503936001635" duration="5958000" />
+      <workItem from="1503970077307" duration="9895000" />
+      <workItem from="1503982230816" duration="15671000" />
+      <workItem from="1503998553101" duration="1972000" />
+      <workItem from="1504000565553" duration="157000" />
+      <workItem from="1504000877902" duration="1247000" />
+      <workItem from="1504013729207" duration="7418000" />
+      <workItem from="1504021219342" duration="12504000" />
+      <workItem from="1504033912095" duration="745000" />
+      <workItem from="1504087234160" duration="7196000" />
+      <workItem from="1504110980220" duration="751000" />
+      <workItem from="1504112003367" duration="3526000" />
+      <workItem from="1504142576677" duration="4682000" />
+      <workItem from="1504148104199" duration="6918000" />
+      <workItem from="1504155702991" duration="401000" />
+      <workItem from="1504156466019" duration="2207000" />
+      <workItem from="1504159324545" duration="135000" />
+      <workItem from="1504159492511" duration="571000" />
+      <workItem from="1504160399251" duration="4212000" />
+      <workItem from="1504164686658" duration="5658000" />
+      <workItem from="1504177530678" duration="262000" />
+      <workItem from="1504183503260" duration="537000" />
+      <workItem from="1504233465307" duration="953000" />
+      <workItem from="1504280409892" duration="9891000" />
+      <workItem from="1504350821130" duration="5622000" />
+      <workItem from="1504429271962" duration="13445000" />
+      <workItem from="1504489378290" duration="9717000" />
+      <workItem from="1504501178491" duration="17384000" />
+      <workItem from="1504536844710" duration="13070000" />
+      <workItem from="1504578571342" duration="1225000" />
+      <workItem from="1504631888022" duration="3305000" />
+      <workItem from="1504791296497" duration="5742000" />
+      <workItem from="1504871044750" duration="10783000" />
+      <workItem from="1504953720297" duration="28724000" />
+      <workItem from="1505028938108" duration="18105000" />
+      <workItem from="1505094545411" duration="21322000" />
+      <workItem from="1505575438935" duration="221000" />
+      <workItem from="1505580318802" duration="1984000" />
+      <workItem from="1505582910215" duration="117000" />
+      <workItem from="1505724166392" duration="20106000" />
+      <workItem from="1505751402262" duration="613000" />
+      <workItem from="1505781693883" duration="738000" />
+      <workItem from="1505785916247" duration="2914000" />
+      <workItem from="1505806866109" duration="1061000" />
+      <workItem from="1505811912114" duration="497000" />
+      <workItem from="1505812791871" duration="10898000" />
+      <workItem from="1505829153176" duration="6794000" />
+      <workItem from="1505889748357" duration="1216000" />
+      <workItem from="1505914618728" duration="7597000" />
+      <workItem from="1506054826698" duration="747000" />
+      <workItem from="1506156486486" duration="4407000" />
+      <workItem from="1506240739524" duration="21188000" />
+      <workItem from="1506332005485" duration="10520000" />
+      <workItem from="1506386414660" duration="1225000" />
+      <workItem from="1506496477311" duration="984000" />
+      <workItem from="1506995161808" duration="109000" />
+      <workItem from="1507258215371" duration="465000" />
+      <workItem from="1507378753239" duration="489000" />
+      <workItem from="1507449661572" duration="4950000" />
+      <workItem from="1507540961387" duration="20828000" />
+      <workItem from="1507597642864" duration="3051000" />
+      <workItem from="1507704216916" duration="391000" />
+      <workItem from="1507710508637" duration="591000" />
+      <workItem from="1507863033399" duration="2427000" />
+      <workItem from="1508070952030" duration="5921000" />
+      <workItem from="1508174525102" duration="4223000" />
+      <workItem from="1508206300372" duration="2724000" />
+      <workItem from="1508308600633" duration="599000" />
+      <workItem from="1508509107649" duration="5344000" />
+      <workItem from="1508526565655" duration="75000" />
+      <workItem from="1508589857852" duration="63000" />
+      <workItem from="1508589965337" duration="144000" />
+      <workItem from="1508590135325" duration="16000" />
+      <workItem from="1508590173791" duration="47908000" />
+      <workItem from="1508806498429" duration="670000" />
+      <workItem from="1508814504641" duration="2621000" />
+      <workItem from="1509360500845" duration="58000" />
+      <workItem from="1509360638748" duration="13728000" />
+      <workItem from="1509526604718" duration="515000" />
+      <workItem from="1509553629661" duration="371000" />
+      <workItem from="1509607966961" duration="16450000" />
+      <workItem from="1509676120689" duration="23991000" />
+      <workItem from="1509867343041" duration="10218000" />
+      <workItem from="1509997430638" duration="1865000" />
+      <workItem from="1510020290592" duration="3303000" />
+      <workItem from="1510124020634" duration="7623000" />
+      <workItem from="1510628378685" duration="747000" />
+      <workItem from="1510892373323" duration="438000" />
+      <workItem from="1511008496414" duration="1949000" />
+      <workItem from="1511010532037" duration="10014000" />
+      <workItem from="1511095863325" duration="1267000" />
+      <workItem from="1511103330052" duration="397000" />
+      <workItem from="1511113324677" duration="455000" />
+      <workItem from="1511114350049" duration="6266000" />
+      <workItem from="1511171900536" duration="867000" />
+      <workItem from="1511232449162" duration="2323000" />
+      <workItem from="1512095637940" duration="2413000" />
+      <workItem from="1512188806691" duration="1899000" />
+      <workItem from="1512440730192" duration="1801000" />
+      <workItem from="1513001360954" duration="56000" />
+      <workItem from="1513046787335" duration="895000" />
+      <workItem from="1513258577181" duration="1142000" />
+      <workItem from="1513708001569" duration="1233000" />
+      <workItem from="1515321146742" duration="2417000" />
+      <workItem from="1515458829410" duration="520000" />
+      <workItem from="1515666465712" duration="605000" />
+      <workItem from="1516022597202" duration="1080000" />
+      <workItem from="1516031221219" duration="717000" />
+      <workItem from="1516386993874" duration="210000" />
+      <workItem from="1516387444015" duration="56000" />
+      <workItem from="1516387525388" duration="389000" />
+      <workItem from="1516425046238" duration="3336000" />
+      <workItem from="1516437590425" duration="655000" />
+      <workItem from="1516818357000" duration="657000" />
+      <workItem from="1516819174064" duration="367000" />
+      <workItem from="1517239865612" duration="16641000" />
+      <workItem from="1517566485740" duration="3956000" />
+      <workItem from="1517919325309" duration="273000" />
+      <workItem from="1517921289202" duration="12988000" />
+      <workItem from="1517979887435" duration="5339000" />
+      <workItem from="1517997670356" duration="1723000" />
+      <workItem from="1518064243625" duration="7679000" />
+      <workItem from="1518117723587" duration="828000" />
+      <workItem from="1518118583479" duration="497000" />
+      <workItem from="1518171481926" duration="11690000" />
+      <workItem from="1518187536391" duration="118000" />
+      <workItem from="1518188018523" duration="655000" />
+      <workItem from="1518188755121" duration="1266000" />
+      <workItem from="1518190289629" duration="38000" />
+      <workItem from="1518190436498" duration="243000" />
+      <workItem from="1518190835630" duration="18000" />
+      <workItem from="1518191034891" duration="799000" />
+      <workItem from="1518191993334" duration="1798000" />
+      <workItem from="1518193949699" duration="259000" />
+      <workItem from="1518194412406" duration="37000" />
+      <workItem from="1518195277406" duration="102000" />
+      <workItem from="1518195398978" duration="6377000" />
+      <workItem from="1518202561987" duration="3432000" />
+      <workItem from="1518486013157" duration="639000" />
+      <workItem from="1518711178011" duration="599000" />
+      <workItem from="1519195553662" duration="2133000" />
+      <workItem from="1519781952013" duration="107000" />
+      <workItem from="1520329550593" duration="20000" />
+      <workItem from="1521818021772" duration="6132000" />
+      <workItem from="1521825523520" duration="817000" />
+      <workItem from="1521830166256" duration="259000" />
+    </task>
+    <task id="LOCAL-00001" summary="na">
+      <created>1517323856084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1517323856084</updated>
+    </task>
+    <task id="LOCAL-00002" summary="na">
+      <created>1517400214567</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1517400214567</updated>
+    </task>
+    <task id="LOCAL-00003" summary="na">
+      <created>1517928691500</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1517928691500</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="762523000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="257" y="316" width="1008" height="720" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34623432" sideWeight="0.5093604" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4088398" sideWeight="0.49063963" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21606864" sideWeight="0.5176471" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35454544" sideWeight="0.48235294" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32961783" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3966851" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928178" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2456964" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32781458" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="na" />
+    <option name="LAST_COMMIT_MESSAGE" value="na" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="19" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://D:/treehouse-custom-video-controls/style.css" />
+    <entry file="file://D:/treehouse-custom-video-controls/script.js" />
+    <entry file="file://D:/treehouse-custom-video-controls/index.html" />
+    <entry file="file://$PROJECT_DIR$/routes/logout.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/users.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="81" column="30" lean-forward="false" selection-start-line="77" selection-start-column="25" selection-end-line="81" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/aws-sdk/dist/aws-sdk.js" />
+    <entry file="file://$PROJECT_DIR$/db/videos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="391" column="10" lean-forward="false" selection-start-line="391" selection-start-column="4" selection-end-line="391" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7416">
+          <caret line="412" column="23" lean-forward="false" selection-start-line="412" selection-start-column="17" selection-end-line="412" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/analyzer_old.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/express-fileupload/lib/index.js" />
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/append_video.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="25" column="34" lean-forward="false" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/login.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/error.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/users.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="47" lean-forward="true" selection-start-line="29" selection-start-column="47" selection-end-line="29" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/analyzer_nav.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="true" selection-start-line="0" selection-start-column="17" selection-end-line="0" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/collections.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/append_video.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/about.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="74" column="3" lean-forward="false" selection-start-line="74" selection-start-column="3" selection-end-line="74" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/about.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/collections.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-567">
+          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/upload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="42" lean-forward="false" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/s3_file.js" />
+    <entry file="file://$PROJECT_DIR$/views/collection.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="98" lean-forward="false" selection-start-line="4" selection-start-column="98" selection-end-line="4" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/analyzer_overlays_drawing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/videos.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="31" column="38" lean-forward="false" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/layout.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="44" lean-forward="false" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/about.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/analyzer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8969">
+          <caret line="533" column="46" lean-forward="false" selection-start-line="533" selection-start-column="46" selection-end-line="533" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/collection.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="39" column="46" lean-forward="false" selection-start-line="39" selection-start-column="46" selection-end-line="39" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-516">
+          <caret line="16" column="45" lean-forward="false" selection-start-line="16" selection-start-column="45" selection-end-line="16" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/videos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/nav.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="29" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="467" column="19" lean-forward="false" selection-start-line="467" selection-start-column="19" selection-end-line="467" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/nav.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="38" lean-forward="false" selection-start-line="3" selection-start-column="38" selection-end-line="3" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/analyzer.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="90" column="54" lean-forward="true" selection-start-line="90" selection-start-column="54" selection-end-line="90" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/analyzer_graph.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="103" lean-forward="false" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="103" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/create_collection.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="37" lean-forward="false" selection-start-line="32" selection-start-column="37" selection-end-line="32" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.R">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="57" lean-forward="false" selection-start-line="3" selection-start-column="57" selection-end-line="3" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/analyzer_core.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="36" lean-forward="false" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/collections.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/analyzer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="81" column="34" lean-forward="true" selection-start-line="81" selection-start-column="34" selection-end-line="81" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/function/local_file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/videos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="42" lean-forward="false" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/analyzer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>bootstrap</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>how who feel in video</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Generated files</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
